@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{60308B10-22D9-8DD0-B0F8-E126702EE28D}") = "Wizard Jam 4 - Ship Economy", "Assembly-CSharp.csproj", "{EABEC1F5-C568-5A80-AC96-BD824655D0F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABEC1F5-C568-5A80-AC96-BD824655D0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABEC1F5-C568-5A80-AC96-BD824655D0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABEC1F5-C568-5A80-AC96-BD824655D0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABEC1F5-C568-5A80-AC96-BD824655D0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
